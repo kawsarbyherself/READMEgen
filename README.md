@@ -1,5 +1,5 @@
 
-    # k
+    # Kawsar's README Generator
 
     # Table of Contents
 
@@ -13,33 +13,33 @@
     - [Questions](#questions)
 
  ## My Project:
-    k
+    Kawsar's README Generator
 
  ## Description:
-    k
+    You can easily get a README file with only answering a few questions about your project!
 
  ## Installation:
-    k
+    none
 
  ## Usage:
-    k
+    open terminal make sure your in the right directory or repo and type the command node index.js or node 'whatever your file name is'
 
  ## Contribution:
-    k
+    no one
     
  ## Test:
-    k
+    test by writing command node index.js answer questions prompted in terminal and then open the generated READMEfile in Preview for better results
 
  ## Credits:
-    k
+    test by writing command node index.js answer questions prompted in terminal and then open the generated READMEfile in Preview for better results
    
  ## License:
-    k
+    ISC
 
  ## Questions:
    For any questions reach me via GitHub:
-   (https://github.com/k)
+   (https://github.com/kawsarbyherself)
 
-   For more information contact me via k
+   For more information contact me via kawsar_shafi@yahoo.com
 
    
